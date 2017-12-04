@@ -10,8 +10,8 @@ The javascript application is composed of three parts which are model, view and 
 such as list of cats' information and current cat. 
 
 2. The modelview controller is an object called octopus which contains methods
-that initialize user interface views and methods that get and change model object. It also sets the model data of currentCat to be the
-first cat arbitrarily.
+that initialize user interface views and methods that get and set currentCat. It also sets the model data of currentCat to be the
+first cat.
 
 3. The view is composed of three objects which correspond to three views that are displaying cat, showing the list of cats, and an admin feature respectively.
 
